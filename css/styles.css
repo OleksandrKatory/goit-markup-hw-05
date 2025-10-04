@@ -152,7 +152,7 @@ img {
 .section {
     background: #2e2f42;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-        url("../images/people-office.jpg");
+        url("../images/people-office1.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -626,7 +626,7 @@ margin-bottom: 16px;
     opacity: 1;
     visibility: visible;
     pointer-events: auto;
-}
+} 
 
 .modal {
     position: absolute;
